@@ -5,4 +5,3 @@
 
 Here are some ideas to get you started:
 -->
--  experience in IT, whitehat hacking, and software development
